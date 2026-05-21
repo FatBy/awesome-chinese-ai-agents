@@ -263,6 +263,12 @@ ollama run qwen  # 运行通义千问模型
   - 性能监控
   - 开源免费
 
+- **[小马AI Hermes 中文增强包](https://github.com/fresh-claw/hermes-zh-cn)** - Hermes Agent 中文补丁与一键安装器
+  - 支持 Hermes Agent v0.14.x、v0.13.x 和 legacy 老版本
+  - 覆盖启动页、TUI、快捷指令、工具分类、网关状态、ACP 权限和审批提示
+  - 未安装 Hermes 时先安装官方版，再自动应用中文补丁
+  - 提供官网教程与业务落地答疑群入口：https://useai.live/hermes/
+
 ### 向量数据库
 
 - **[Qdrant](https://github.com/qdrant/qdrant)** - 高性能向量搜索引擎
