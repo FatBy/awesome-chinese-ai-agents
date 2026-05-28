@@ -190,6 +190,11 @@ ollama run qwen  # 运行通义千问模型
 
 ### 开发框架
 
+- **[boss-agent-cli](https://github.com/can4hou6joeng4/boss-agent-cli)** - 面向 AI Agent 的 BOSS 直聘本地求职辅助 CLI
+  - 结构化 JSON 输出,适合 Agent 调用
+  - 支持 MCP、Claude Desktop、Cursor、Windsurf
+  - 默认低风险模式,阻断敏感招聘与沟通动作
+
 - **[LangGraph](https://github.com/langchain-ai/langgraph)** - 构建有状态的 Agent 工作流
   - 可视化工作流编辑
   - 中文示例丰富
