@@ -540,6 +540,11 @@ ollama run qwen  # 运行通义千问模型
   - 交互式学习
   - 涵盖 Transformers 库
 
+- **[AI全书 AI Agent 专题](https://aibook.ren/categories/ai-agent)** - 面向中文开发者的 AI Agent 系统学习专题
+  - 覆盖 Agent 基础概念、MCP、工具调用、上下文与记忆设计
+  - 包含工程实践文章和学习路径
+  - 免费公开访问
+
 ### 视频教程
 
 - **B站搜索关键词**: "AI Agent 教程", "LangChain 实战", "大模型应用开发"
