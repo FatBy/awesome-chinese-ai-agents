@@ -243,6 +243,12 @@ ollama run qwen  # 运行通义千问模型
   - 最佳实践案例
   - 持续更新
 
+### 测试与验证
+
+- **[agent-qa](https://github.com/vostride/agent-qa)** - 支持 Web、Android 和 iOS 的 AI 自动化测试 Agent
+  - 持久记忆引擎与经验证的自我改进，复用有效的测试经验
+  - 提供 CLI、MCP 和 Skills；[中文文档](https://github.com/vostride/agent-qa/blob/v0.2.3/README.zh-CN.md) · [官网](https://vostride.com)
+
 ### 监控与调试
 
 - **[Langfuse](https://github.com/langfuse/langfuse)** - 开源 LLM 工程平台
