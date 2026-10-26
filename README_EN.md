@@ -189,6 +189,12 @@ China has a unique digital ecosystem with platforms like WeChat, Douyin (TikTok)
   - API support
   - Dataset management
 
+### Testing & Verification
+
+- **[agent-qa](https://github.com/vostride/agent-qa)** - AI testing agent for web, Android, and iOS applications, with a CLI, MCP server, and skills for coding-agent workflows.
+  - Persistent memory and validated self-improvement retain useful testing knowledge
+  - [Chinese documentation](https://github.com/vostride/agent-qa/blob/v0.2.3/README.zh-CN.md) · [Website](https://vostride.com)
+
 ### Monitoring & Debugging
 
 - **[Langfuse](https://github.com/langfuse/langfuse)** - Open-source LLM engineering platform
