@@ -303,6 +303,13 @@ ollama run qwen  # 运行通义千问模型
   - 生产环境可用
   - PagedAttention 优化
 
+### Agent 支付工具
+
+- **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)** - 面向 AI Agent 的本地 CLI/MCP 支付工具，可检查 x402 报价、准备受限支付并查询状态与收据
+  - 仅支持 Apple Silicon macOS 和 Node.js 24；安装：`brew install nuanu-ai/tap/apn`，本地 stdio：`apn mcp serve`
+  - 直接转账与 EVM 签名需所有者前台批准；符合条件的 Solana x402 执行使用另行准入的所有者策略
+  - MIT 开源软件；链上及服务费用另计，项目文档目前为英文
+
 ---
 
 ## 🎯 Agent 技能
